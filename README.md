@@ -2,7 +2,7 @@
  Hi there! 👋 I'm Tsimafei<br><br>
  💻 **Java Backend Developer | Microservices | Spring Boot | Docker | Kubernetes | PostgreSQL**
  <br><br>
- 🚀 **About Me**:<br>I develop reliable and scalable backend solutions using Java. <br>Experienced in designing microservices architecture, working with databases, integrating services, and automating processes.
+ 🚀 **About Me**:<br>  I develop reliable and scalable backend solutions using Java. <br>Experienced in designing microservices architecture, working with databases, integrating services, and automating processes.
  <br><br>
  🛠 **Tech Stack**:<br> - **Backend**: Java, Spring Boot, Spring MVC, Spring Data<br> - **Databases**: PostgreSQL, Flyway, Liquibase<br> - **DevOps**: Docker, Kubernetes, Minikube<br> - **Messaging**: Kafka<br> - **Tools**: IntelliJ IDEA, Git, CI/CD
  <br><br>
