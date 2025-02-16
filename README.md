@@ -1,5 +1,8 @@
 # 💫 About Me:
  Hi there! 👋 I'm Tsimafei<br><br>
+
+ > "He who is not worthy of the light, does not deserve the darkness."
+
  💻 **Java Backend Developer | Microservices | Spring Boot | Docker | Kubernetes | PostgreSQL**
  <br><br>
  🚀 **About Me**:<br>  I develop reliable and scalable backend solutions using Java. <br>Experienced in designing microservices architecture, working with databases, integrating services, and automating processes.
@@ -13,6 +16,5 @@
  📫 Contact Me:<br> **LinkedIn** - [click](https://linkedin.com/in/https://www.linkedin.com/in/tsimafei-sniazhkou/)
  
 </br>
-> "He who is not worthy of the light, does not deserve the darkness."  
 
 [![](https://visitcount.itsvg.in/api?id=Timmy8&icon=0&color=0)](https://visitcount.itsvg.in)
