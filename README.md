@@ -2,8 +2,6 @@
  Hi there! 👋 I'm Tsimafei
  <br>
  
- > "He who is not worthy of the light, does not deserve the darkness."
- <br>
  
  💻 **Java Backend Developer | Microservices | Spring Boot | Docker | Kubernetes | PostgreSQL**
  <br><br>
