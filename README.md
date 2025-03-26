@@ -13,6 +13,6 @@
  <br><br>
  💡 **Fun Fact**:<br> I love traveling and have lived in several countries for an extended period. <br>Exploring new cultures and meeting people from different backgrounds has shaped my perspective on life. <br>Also, I enjoy helping others, whether it's through mentoring, collaborating on projects, or sharing knowledge with the community.
  <br><br>
- 📫 Contact Me:<br> **LinkedIn** - [click](https://linkedin.com/in/https://www.linkedin.com/in/tsimafei-sniazhkou/)
+ 📫 Contact Me:<br> **LinkedIn** - tsimafei-sniazhkou
  
 [![](https://visitcount.itsvg.in/api?id=Timmy8&icon=0&color=0)](https://visitcount.itsvg.in)
